@@ -4,7 +4,13 @@
 <!--                  HERO BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Vishwajeet%20Chandole&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer%20%7C%20AIML%20Undergraduate&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=42&pause=1000&color=F96300&center=true&vCenter=true&width=650&height=70&lines=Vishwajeet+Chandole;AI+%26+Full+Stack+Developer" alt="Vishwajeet Chandole" />
+
+<p align="center">
+  <b>B.Tech Undergraduate in Artificial Intelligence & Machine Learning</b>
+</p>
 
 <!-- Status Badges -->
 <p>
@@ -88,7 +94,7 @@ My journey in tech began with a Diploma in Computer Engineering, where I built a
 | 💼 | Co-Founder @ ByteProjex |
 | 🏅 | Top 30 — Sankalpan 2025 Ideathon |
 | 💡 | 10+ Technical Projects Built |
-| ✉️ | vishwajeetchandole@gmail.com |
+| ✉️ | chandolevishwajeet@gmail.com |
 
 ---
 
@@ -101,7 +107,7 @@ My journey in tech began with a Diploma in Computer Engineering, where I built a
 | 🔗 Resource | 🌐 Link |
 |---|---|
 | 🚀 Live Site | [vishwajeetchandole.vercel.app](https://vishwajeetchandole.vercel.app) |
-| 💻 Source Code | [github.com/vishwajeetchandole/Portfolio](https://github.com/vishwajeetchandole/Portfolio) |
+| 💻 Source Code | [github.com/vishwajeetchandole/vishwajeet-portfolio](https://github.com/vishwajeetchandole/vishwajeet-portfolio) |
 | 📄 Resume | [Download Resume](https://vishwajeetchandole.vercel.app/Vishwajeet_Chandole_Resume.pdf) |
 
 </div>
@@ -467,10 +473,10 @@ Portfolio/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vishwajeetchandole/Portfolio.git
+git clone https://github.com/vishwajeetchandole/vishwajeet-portfolio.git
 
 # 2. Navigate to the project directory
-cd Portfolio
+cd vishwajeet-portfolio
 
 # 3. Install dependencies
 npm install
@@ -503,13 +509,7 @@ npm run lint       # Run ESLint code checks
 
 #### Admin Panel Access
 
-```
-URL:       http://localhost:5173/admin
-Username:  vishwajeet
-Password:  portfolio@2026
-```
-
-> ⚠️ **Security Note:** Change admin credentials in `src/admin/AdminLogin.jsx` before deploying to production.
+The CMS Admin Panel is accessible at `/admin`. Authentication credentials are configured in `src/admin/AdminLogin.jsx`.
 
 ---
 
@@ -540,7 +540,7 @@ I'm always open to discussing **new opportunities**, **collaborations**, and **i
 
 | Channel | Link |
 |---|---|
-| 📧 **Email** | [vishwajeetchandole@gmail.com](mailto:vishwajeetchandole@gmail.com) |
+| 📧 **Email** | [chandolevishwajeet@gmail.com](mailto:chandolevishwajeet@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/vishwajeetchandole](https://linkedin.com/in/vishwajeetchandole) |
 | 🐙 **GitHub** | [github.com/vishwajeetchandole](https://github.com/vishwajeetchandole) |
 | 🌐 **Portfolio** | [vishwajeetchandole.vercel.app](https://vishwajeetchandole.vercel.app) |
@@ -548,7 +548,7 @@ I'm always open to discussing **new opportunities**, **collaborations**, and **i
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwajeetchandole@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandolevishwajeet@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeetchandole)
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://vishwajeetchandole.vercel.app)
 
@@ -575,7 +575,7 @@ furnished to do so.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&animation=fadeIn" width="100%" />
+<br/>
 
 **Designed & Developed with ❤️ by [Vishwajeet Chandole](https://github.com/vishwajeetchandole)**
 
@@ -585,8 +585,8 @@ furnished to do so.
 
 ⭐ **If you found this helpful, consider giving it a star!** ⭐
 
-[![Star this repo](https://img.shields.io/github/stars/vishwajeetchandole/Portfolio?style=social)](https://github.com/vishwajeetchandole/Portfolio)
-[![Fork this repo](https://img.shields.io/github/forks/vishwajeetchandole/Portfolio?style=social)](https://github.com/vishwajeetchandole/Portfolio/fork)
+[![Star this repo](https://img.shields.io/github/stars/vishwajeetchandole/vishwajeet-portfolio?style=social)](https://github.com/vishwajeetchandole/vishwajeet-portfolio)
+[![Fork this repo](https://img.shields.io/github/forks/vishwajeetchandole/vishwajeet-portfolio?style=social)](https://github.com/vishwajeetchandole/vishwajeet-portfolio/fork)
 
 *Last updated: 2025 · Built with React + Vite + Tailwind CSS*
 
