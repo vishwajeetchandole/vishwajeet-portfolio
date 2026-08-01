@@ -61,9 +61,6 @@ export default function Footer() {
 
         <div className="flex flex-col sm:flex-row justify-between items-center pt-8 text-gray-600 text-xs gap-2">
           <span>© 2026 Vishwajeet Chandole. All Rights Reserved.</span>
-          <a href="/admin" className="text-gray-500 hover:text-brand-orange transition-colors font-medium text-[11px] underline">
-            Admin Portal
-          </a>
         </div>
       </div>
     </footer>
