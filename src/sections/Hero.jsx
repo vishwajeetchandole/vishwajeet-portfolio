@@ -117,7 +117,7 @@ export default function Hero() {
                 className="group inline-flex items-center gap-2 border-2 border-gray-200 bg-white hover:border-brand-orange/40 hover:bg-orange-50 text-gray-800 hover:text-brand-orange font-bold uppercase tracking-wider text-xs px-7 py-4 rounded-2xl transition-all duration-300 hover:-translate-y-1 shadow-sm"
               >
                 <FileText className="h-4 w-4 text-brand-orange" />
-                <span>Download CV</span>
+                <span>Download Resume</span>
               </a>
             </motion.div>
           </div>
