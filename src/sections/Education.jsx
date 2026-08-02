@@ -103,7 +103,7 @@ export default function Education() {
                     <div className="p-1 rounded-lg bg-orange-50 border border-orange-100">
                       <Award className="h-3.5 w-3.5 text-brand-orange" />
                     </div>
-                    <span>Grade: {item.score}</span>
+                    <span>Score: {item.score}</span>
                   </div>
                 )}
               </motion.div>
